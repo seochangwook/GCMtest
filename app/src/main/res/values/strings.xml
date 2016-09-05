@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GCMtest</string>
+
+    <!-- GCM Server API Key / Sender ID -->
+    <string name="server_api_key">AIzaSyANUQ4AMzcILrjSWpb-EyPHY7tXetwbzW8</string>
+    <string name="sender_id">555994407739</string>
+
+    <string name="registering_message_ready">InstanceID 토큰 가져오기</string>
+    <string name="registering_message_generating">InstanceID 토큰 생성중...</string>
+    <string name="registering_message_complete">완료!</string>
+</resources>
